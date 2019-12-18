@@ -1,2 +1,2 @@
 cmake_minimum_required(VERSION 2.6)
-	add_executable(miscop miscop.cpp)
+	add_executable(miscopcpp miscop.cpp)
